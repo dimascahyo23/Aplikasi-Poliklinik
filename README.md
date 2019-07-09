@@ -1,4 +1,4 @@
-# Aplikasi-Politeknik
+# Aplikasi-Poliklinik
 Aplikasi Politeknik berbasis web menggunakan CodeIgniter 3
 
 fitur yang dimiliki :
